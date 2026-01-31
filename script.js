@@ -19,7 +19,7 @@ const students = [
 
 // Array of teacher names
 const teachers = [
-    'Pranati Jali',
+    'Pranati Jali (PGT - Biology)',
     'S Anupama Rani (ATL Mentor of Change)',
     // Add more teacher names here
 ];
