@@ -6,9 +6,21 @@
 // Add your images to the 'assets' folder and list them here
 const microscopyImages = [
     { filename: 'image1.bmp', name: 'Cells visible in onion peel' },
-    { filename: 'image2.bmp', name: 'Radish petiole skin' },
-    // Add more images here following the same format
-    // { filename: 'your-image.jpg', name: 'Description' },
+    { filename: 'image2.bmp', name: 'Tender palm shoots' },
+    { filename: 'image3.jpeg', name: 'Matar pod cells' },
+    { filename: 'image4.jpeg', name: 'Betel leaf cells' },
+    { filename: 'image5.jpeg', name: 'Kodi juttu puvvulu plant leaf cells' },
+    { filename: 'image6.jpeg', name: 'Hibiscus leaf cells' },
+    { filename: 'image7.jpeg', name: 'Butterfly pea flower plant /blue pea flower plant leaf cells (Sankam puvvu)' },
+    { filename: 'image8.jpeg', name: 'Jasmine(sannajaji) leaf  cells' },
+    { filename: 'image9.jpeg', name: 'White flower leaf cells' },
+    { filename: 'image10.jpg', name: 'Bilva patra leaf cells' },
+    { filename: 'image11.jpg', name: 'Decoration plant leaf cells' },
+    { filename: 'image12.jpg', name: 'Orchid plant leaf cells' },
+    { filename: 'image13.jpg', name: 'Betel leaf stomata' },
+    { filename: 'image14.jpg', name: 'Amaryllis leaf cells'},
+    { filename: 'image15.jpg', name: 'Money plant epidermal leaf cells'},
+    { filename: 'image16.jpg', name: 'TS of Aglonema leaf stalk'}
 ];
 
 // Array of student names
